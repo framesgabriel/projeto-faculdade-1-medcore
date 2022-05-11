@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Facul_1_semestre
 
 Projeto criado no primeiro semestre do curso de Análise e Desenvolvimento de Sistemas.
@@ -22,3 +23,6 @@ Feito em linguagem C# utilizando o Visual Studio e banco de dados orientado a ob
 Na tela de login é necessário informar se é médico ou da secretaria para ser direcionado para a respectiva tela.<br>
 Na tela do funcionário a pesquisa é filtrada pelo numero de dígitos (1 a 3 digitos - cód. funcionários / 4 a 10 digitos - CRM médicos / 11 digitos - CPF paciente)<br>
 Na tela do médico a pesquisa é filtrada pelo CPF do paciente e pelo médico que está pesquisando, sendo assim, um médico não tem acesso aos registros gerados por outro médico.
+=======
+# projeto-faculdade-1-medcore
+>>>>>>> 0b313cdad3c49fc2079077653cbb3444bb4535c8
